@@ -1,3 +1,5 @@
 <svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
-  <path fill="none" stroke="black" stroke-width="10" d="M 50 0 L 25 25 L 75 75 L 50 100" />
+  <path fill="none" stroke="black" stroke-width="5" d="M 50 0 L 25 50 L 75 50 L 50 100">
+    <animate attributeName="d" values="M 50 0 L 25 50 L 75 50 L 50 100;M 50 0 L 75 50 L 25 50 L 50 100;M 50 0 L 25 50 L 75 50 L 50 100;" dur="2s" repeatCount="indefinite" />
+  </path>
 </svg>
