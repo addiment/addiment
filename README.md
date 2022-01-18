@@ -1,4 +1,14 @@
-### Hi there 👋
+# I make stuff.
+
+I do a lot of programming.
+- I wrote a [crappy chat platform](https://voicebox.windzyboy.com) using Node.JS.
+- I wrote a bunch of [other crappy websites](https://windzyboy.com).
+- I make [crappy games](https://windzyboy.itch.io) in Unreal Engine and I'm learning SDL 2.0.
+
+## I'm somewhat of an important person...
+- I contributed code to Unreal Engine 5 ([...by changing 1 line](https://github.com/EpicGames/UnrealEngine/commit/424c212bd6706246dbb3e8f4114a9100ccf4c8fc))
+- I contributed to the Valve Developer Wiki ([...by rewriting a pointless 1-paragraph article](https://developer.valvesoftware.com/w/index.php?title=Refresh_SDK_Content&oldid=251411))
+- I wrote a Wikipedia article ([...that got declined, for an obscure Flash game nobody cares about](https://en.wikipedia.org/wiki/Draft:Hand_&_Stars))
 
 <!--
 **Windzyboy/Windzyboy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
