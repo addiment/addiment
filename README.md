@@ -10,7 +10,7 @@ I do a lot of programming.
 - I contributed to the Valve Developer Wiki ([...by rewriting a pointless 1-paragraph article](https://developer.valvesoftware.com/w/index.php?title=Refresh_SDK_Content&oldid=251411))
 - I wrote a Wikipedia article ([...that got declined, for an obscure Flash game nobody cares about](https://en.wikipedia.org/wiki/Draft:Hand_&_Stars))
 
-<img src="./squiggle.svg" />
+<!-- <img src="./squiggle.svg" /> -->
 
 <!--
 **Windzyboy/Windzyboy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
