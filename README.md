@@ -1,9 +1,9 @@
 # I make stuff.
 
 I do a lot of programming.
-- I wrote a [crappy chat platform](https://voicebox.windzyboy.com) using Node.JS (and am unwilling to pay for server fees, have a dead URL)
-- I wrote a bunch of [other crappy websites](https://windzyboy.com).
-- I make [crappy games](https://windzyboy.itch.io) in Unreal Engine and I'm learning SDL 2.0.
+- I wrote a [crappy chat platform](https://voicebox.windzyboy.com) using Node.JS (and am unwilling to pay for server fees)
+- I made a bunch of [other crappy websites](https://windzyboy.com).
+- I make [crappy games](https://windzyboy.itch.io) in Unreal Engine, and I'm learning SDL 2.0.
 
 ## I'm somewhat of an important person...
 - I contributed code to Unreal Engine 5 ([...by changing 1 line](https://github.com/EpicGames/UnrealEngine/commit/424c212bd6706246dbb3e8f4114a9100ccf4c8fc))
