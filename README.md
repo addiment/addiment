@@ -1,7 +1,7 @@
 # I make stuff.
 
 We do a lot of programming.
-- I wrote a [crappy chat platform](https://voicebox.windzyboy.com) using Node.JS (and am unwilling to pay for server fees)
+- I wrote a crappy chat platform using Node.JS (and am unwilling to pay for server fees)
 - I made a bunch of other [crappy websites, including my own](https://windzyboy.com/).
 - Sometimes I make [crappy games](https://windzyboy.itch.io) in Unreal Engine, and I know some [SDL2](https://libsdl.org/).
 
