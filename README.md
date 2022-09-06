@@ -1,30 +1,17 @@
-# I make stuff
+# I make stuff.
 
-We do a lot of programming.
+My name is Addison, I'm an amateur software developer, musician, and gamer. Open-Source software is awesome, and I like to make my own sometimes.
+I use she/her and they/them pronouns. If you really want to contact me, I'm sure you can find a way.
 
-- I wrote a crappy chat platform using Node.JS (and am unwilling to pay for server fees)
-- I made a bunch of other [crappy websites, including my own](https://windzyboy.com/).
-- Sometimes I make [crappy games](https://windzyboy.itch.io) in Unreal Engine, and I know some [SDL2](https://libsdl.org/).
+## Things I make
 
-## I'm somewhat of an important person
+- Programs using Node.js (Regular JS, not TypeScript)
+- Websites (HTML/CSS/JS, usually writing my own backend stack with Node)
+- Projects using Unreal Engine (games, usually)
+- Random utilities/games in SDL2
 
-- I contributed code to Unreal Engine 5 ([...by changing 1 line](https://github.com/EpicGames/UnrealEngine/commit/424c212bd6706246dbb3e8f4114a9100ccf4c8fc))
-- I contributed to the Valve Developer Wiki ([...by rewriting a pointless 1-paragraph article](https://developer.valvesoftware.com/w/index.php?title=Refresh_SDK_Content&oldid=251411))
-- I wrote a Wikipedia article ([...that got declined, for an obscure Flash game nobody cares about](https://en.wikipedia.org/wiki/Draft:Hand_&_Stars))
+## Things I'm trying to get better at
 
-![A browser has been detected. You may now browse this web site.](common_sense.png)
-
-<!--
-**Windzyboy/Windzyboy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Large-scale projects (i.e. something more complex than a database API or chat app)
+- Cybersecurity (primarily for protecting self-hosted servers)
+- Teamwork (unemployment makes this difficult)
