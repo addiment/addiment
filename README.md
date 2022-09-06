@@ -1,6 +1,7 @@
 # I make stuff.
 
 My name is Addison, I'm an amateur software developer, musician, and gamer. Open-Source software is awesome, and I like to make my own sometimes.
+
 I use she/her and they/them pronouns. If you really want to contact me, I'm sure you can find a way.
 
 ## Things I make
