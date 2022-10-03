@@ -6,7 +6,7 @@ I use she/her and they/them pronouns. Feel free to contact me if you have any qu
 
 I'm currently running & developing [living.computer](https://living.computer/), feel free to check it out.
 
-![living.computer](https://living.computer/img/icon192.png)
+[![living.computer](https://living.computer/img/icon192.png)](https://living.computer/)
 
 ## Things I make
 
