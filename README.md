@@ -4,6 +4,10 @@ My name is Addison, I'm an amateur software developer, musician, and gamer. Open
 
 I use she/her and they/them pronouns. Feel free to contact me if you have any questions/inquiries.
 
+I'm currently running & developing [living.computer](https://living.computer/), feel free to check it out.
+
+![living.computer](https://living.computer/img/icon192.png)
+
 ## Things I make
 
 - Programs using Node.js (regular JavaScript, not TypeScript)
