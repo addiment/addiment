@@ -1,22 +1,22 @@
-# I make stuff.
+# About Me
 
-My name is Addison, I'm an amateur software developer, musician, and gamer. Open-Source software is awesome, and I like to make my own sometimes.
+I'm a computer person. I use she/they pronouns.
 
-I use she/her and they/them pronouns. Feel free to contact me if you have any questions/inquiries.
+My website is [living.computer](https://living.computer/), feel free to check it out.
 
-I'm currently running & developing [living.computer](https://living.computer/), feel free to check it out.
+## Things I'm Pretty Good At
 
-[![living.computer](https://living.computer/img/icon192.png)](https://living.computer/)
+- Node.js (regular JavaScript, not TypeScript)
+- Developing websites (HTML/CSS/JS, usually using nginx, Node.js, or Apache2)
+- Unreal Engine
+- C++ (though C is a bit of a handicap for me)
+- SDL2
 
-## Things I make
+## Things I'm Trying to Get Better At
 
-- Programs using Node.js (regular JavaScript, not TypeScript)
-- Websites (HTML/CSS/JS, usually writing my own backend stack with Node)
-- Projects using Unreal Engine (games, usually)
-- Random utilities/apps/games in SDL2
-
-## Things I'm trying to get better at
-
-- Large-scale projects (i.e. something more complex than a database API or chat app)
-- Cybersecurity (primarily for protecting self-hosted servers)
+- Interface design (as opposed to just development)
+- Larger-scale projects
+- Cybersecurity
 - Teamwork (unemployment makes this difficult)
+
+Feel free to contact me if you have any questions.
