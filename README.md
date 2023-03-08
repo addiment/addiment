@@ -1,22 +1,18 @@
 # About Me
 
-I'm a computer person. I use she/they pronouns.
-
-My website is [living.computer](https://living.computer/), feel free to check it out.
+I like computers, music, music computers, and some other stuff.
 
 ## Things I'm Pretty Good At
 
-- Node.js (regular JavaScript, not TypeScript)
+- Node.js (JavaScript, not really TypeScript)
 - Developing websites (HTML/CSS/JS, usually using nginx, Node.js, or Apache2)
 - Unreal Engine
-- C++ (though C is a bit of a handicap for me)
+- C++
 - SDL2
 
 ## Things I'm Trying to Get Better At
 
-- Interface design (as opposed to just development)
-- Larger-scale projects
+- Designing user interfaces
 - Cybersecurity
-- Teamwork (unemployment makes this difficult)
-
-Feel free to contact me if you have any questions.
+- Finishing projects
+- Teamwork
