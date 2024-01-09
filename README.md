@@ -2,21 +2,20 @@
 
 I like computers, music, music computers, and some other stuff.
 
-## Things I'm Pretty Good At
+## Skills
 
-- Node.js (JavaScript, not really TypeScript)
+- Node.js (JavaScript)
 - Developing websites (HTML/CSS/JS)
-- Web servers (nginx, Node.js, Apache2)
+- Configuring web servers (nginx, Apache2)
 - Unreal Engine
-- C/C++
-- SDL2
+- C/C++ (+ SDL) 
 - Kotlin & Java
-- Using Linux (Debian)
+- Linux (Debian)
 
-## Things I'm Trying to Get Better At
+## Things I'm Getting Better At
 
-- Designing graphics, like user interfaces
+- UI/UX design
 - Cybersecurity
-- Finishing projects
+- Low-level programming & OSdev
+- Actually finishing projects
 - Teamwork
-- Low-level programming (OS dev)
