@@ -1,21 +1,29 @@
 # About Me
 
-I like computers, music, music computers, and some other stuff.
+I like computers, music, music computers, and some other stuff. My website is [living.computer](https://living.computer).
 
-## Skills
+## Languages
 
-- Node.js (JavaScript)
-- Developing websites (HTML/CSS/JS)
-- Configuring web servers (nginx, Apache2)
+- C/C++
+- JavaScript
+- Kotlin
+- Java
+- C#
+
+### More Specific Skills
+
 - Unreal Engine
-- C/C++ (+ SDL) 
-- Kotlin & Java
-- Linux (Debian)
+- Making websites by-hand (HTML/CSS/JS) and configuring web servers (nginx, Apache2)
+- LibSDL in C/C++
+- Godot Engine
+- Using Linux (Debian)
 
 ## Things I'm Getting Better At
 
 - UI/UX design
 - Cybersecurity
-- Low-level programming & OSdev
+- Blender
+- Texture art (2D and 3D)
+- OSdev
 - Actually finishing projects
 - Teamwork
